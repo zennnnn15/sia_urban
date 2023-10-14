@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55520602113",
+    "project_id": "urbanchai-d58a0",
+    "storage_bucket": "urbanchai-d58a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55520602113:android:ea09f13f5252b201cf3800",
+        "android_client_info": {
+          "package_name": "com.example.urbanchai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kBk8uUh9t6KkPmp46KiCS8WZ0E9R6xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
